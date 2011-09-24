@@ -1,0 +1,28 @@
+Logfile initialized
+[INFO] logfile = C:\workspace\Misetan\build.log
+[DEBUG] C:\Users\owner\AppData\Roaming\Titanium\mobilesdk\win32\1.7.2\android\builder.py simulator Misetan D:\usr\android-sdk-windows-r12 C:\workspace\Misetan com.Misetan 8 WVGA854
+[INFO] Building Misetan for Android ... one moment
+[INFO] Titanium SDK version: 1.7.2 (07/21/11 09:36 97c3689)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 10 seconds)
+[DEBUG] waited 10.034000 seconds on emulator to get ready
+[INFO] Waiting for the Android Emulator to become available
+[DEBUG] com.Misetan installed? True
+[INFO] Fastdev server running, deploying in Fastdev mode
+[INFO] Copying project resources..
+[TRACE] COPYING MODIFIED FILE: C:\workspace\Misetan\Resources\app.js => C:\workspace\Misetan\build\android\bin\assets\Resources\app.js
+[TRACE] COPYING MODIFIED FILE: C:\workspace\Misetan\Resources\lib\common.js => C:\workspace\Misetan\build\android\bin\assets\Resources\lib\common.js
+[TRACE] COPYING MODIFIED FILE: C:\workspace\Misetan\Resources\lib\configdb.js => C:\workspace\Misetan\build\android\bin\assets\Resources\lib\configdb.js
+[TRACE] COPYING MODIFIED FILE: C:\workspace\Misetan\Resources\style\style_config.js => C:\workspace\Misetan\build\android\bin\assets\Resources\style\style_config.js
+[TRACE] COPYING MODIFIED FILE: C:\workspace\Misetan\Resources\style\style_search.js => C:\workspace\Misetan\build\android\bin\assets\Resources\style\style_search.js
+[TRACE] COPYING MODIFIED FILE: C:\workspace\Misetan\Resources\view\search.js => C:\workspace\Misetan\build\android\bin\assets\Resources\view\search.js
+[INFO] Tiapp.xml unchanged, skipping class generation
+[DEBUG] Processing Android resource drawables
+[INFO] Waiting for SDCard to become available..
+[INFO] Re-launching application ... Misetan
+[INFO] Launching application ... Misetan
+[TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.Misetan/.MisetanActivity }
+
